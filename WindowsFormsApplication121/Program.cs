@@ -14,6 +14,7 @@ namespace WindowsFormsApplication121
         [STAThread]
         static void Main()
         {
+            //ererer
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
